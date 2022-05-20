@@ -1,3 +1,10 @@
 # Netflix - Clone em React.js
 
-`npx create-react-app --name`
+- Criar um projeto em React
+  `npx create-react-app --name`
+
+- Baixar dependências
+  `npm install`
+
+- Iniciar projeto
+  `npm start`
