@@ -8,3 +8,12 @@
 
 - Iniciar projeto
   `npm start`
+
+- The Movie Database API
+  https://developers.themoviedb.org/3/getting-started/introduction
+
+- Testar API
+  https://resttesttest.com/
+
+- Formatar JSON
+  http://jsonviewer.stack.hu/
